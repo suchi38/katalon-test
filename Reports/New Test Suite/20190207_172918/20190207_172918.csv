@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,IE 11,,2019-02-07 17:29:22,2019-02-07 17:29:46,24.938s,ERROR
+,,,,,,
+Test Cases/Test Suite Data/TC_Filterbyprice,IE 11,,2019-02-07 17:29:22,2019-02-07 17:29:43,20.885s,ERROR
+"openBrowser(""https://www.katalon.com/"")",IE 11,,2019-02-07 17:29:23,2019-02-07 17:29:38,14.247s,PASSED
+driver = getWebDriver(),IE 11,,2019-02-07 17:29:38,2019-02-07 17:29:38,0.022s,PASSED
+"baseUrl = ""https://www.katalon.com/""",IE 11,,2019-02-07 17:29:38,2019-02-07 17:29:38,0.000s,PASSED
+"selenium = new com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium(driver, baseUrl)",IE 11,,2019-02-07 17:29:38,2019-02-07 17:29:41,3.127s,ERROR

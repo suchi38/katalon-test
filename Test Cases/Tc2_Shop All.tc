@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Tc2_Shop All</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a3f58165-a053-4010-9cf1-66e1805391f2</testCaseGuid>
+   <testCaseGuid>eaab11c4-f977-4ede-bcdc-e7482453d315</testCaseGuid>
 </TestCaseEntity>

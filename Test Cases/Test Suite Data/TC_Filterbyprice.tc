@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>TC_Filterbyprice</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a3f58165-a053-4010-9cf1-66e1805391f2</testCaseGuid>
+   <testCaseGuid>677cdc68-2b06-4760-8fff-84420c7d9fb9</testCaseGuid>
 </TestCaseEntity>
